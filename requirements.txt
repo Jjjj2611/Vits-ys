@@ -6,7 +6,7 @@ phonemizer==2.2.1
 scipy==1.5.2
 tensorboard==2.9
 torch==1.12.1
-torchvision==0.10.0
+torchvision==0.13.1
 Unidecode==1.1.1
 pypinyin
 pypinyin_dict
